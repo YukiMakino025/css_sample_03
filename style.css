@@ -1,0 +1,36 @@
+body {
+    background-color: mistyrose;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color:yellowgreen;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+    color:darkslategray;
+    font-size:2.5em;
+}
+
+nav {
+    padding: 8px 40px;
+    background-color: lightcoral;
+    color: darkolivegreen;
+    font-size:2.0em;
+}
+
+article {
+    padding: 40px;
+    min-height : 400px;
+    color:darkslategray;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : lightcoral;
+    color: darkolivegreen;
+}
